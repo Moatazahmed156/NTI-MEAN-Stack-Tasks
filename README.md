@@ -6,7 +6,7 @@ Each folder represents a session or topic covered during the course.
 
 ## Structure
 - Session-1: introductory JavaScript tasks
-- Session-2: frontend and DOM tasks
+- Session-2: Async and DOM tasks
 - Session-3: Node.js and OOP tasks
 - Session-4: File System and HTTP server tasks
 
