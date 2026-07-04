@@ -1,0 +1,20 @@
+[
+  {
+    "id": 1,
+    "title": "JavaScript Basics",
+    "instructor": "Ahmed",
+    "price": 99
+  },
+  {
+    "id": 2,
+    "title": "React Fundamentals",
+    "instructor": "Sara",
+    "price": 149
+  },
+  {
+    "id": 3,
+    "title": "Node.js Complete Guide",
+    "instructor": "Esraa",
+    "price": 199
+  }
+]
