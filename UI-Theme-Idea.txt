@@ -1,0 +1,89 @@
+Hive is an excellent choice. It's short, memorable, modern, and fits the idea of communities working together—just like a beehive.
+
+Brand Concept
+
+Hive — Where Communities Connect.
+
+or
+
+Hive — Connect. Collaborate. Grow.
+
+or
+
+Hive — Your Community, Your Hive.
+
+Brand Identity
+🎨 Color Palette
+
+Inspired by honey, bees, and modern SaaS applications.
+
+Purpose	Color	Hex
+Primary	Honey Yellow	#F4B400
+Primary Dark	Amber	#E09F00
+Secondary	Charcoal	#1F2937
+Background	Off White	#FFFDF7
+Surface	White	#FFFFFF
+Success	Green	#22C55E
+Danger	Red	#EF4444
+Text	Dark Gray	#374151
+Tailwind Theme
+colors: {
+  primary: "#F4B400",
+  primaryDark: "#E09F00",
+  secondary: "#1F2937",
+  background: "#FFFDF7",
+  surface: "#FFFFFF",
+  text: "#374151",
+  success: "#22C55E",
+  danger: "#EF4444",
+}
+UI Style
+Rounded corners (rounded-xl)
+Soft shadows
+Clean white cards
+Yellow accents for buttons and highlights
+Dark gray navigation
+Plenty of whitespace
+Smooth animations
+Minimalist design inspired by Discord, Slack, and Notion
+Typography
+Headings: Poppins
+Body: Inter
+
+This combination gives a modern and highly readable interface.
+
+Logo Idea
+
+A simple hexagon (representing a honeycomb cell) with a stylized "H" inside.
+
+⬢
+ H
+
+Or combine multiple hexagons to subtly represent a connected community.
+
+Icon Style
+
+Use simple outline icons, such as:
+
+Home
+Groups
+Notifications
+Chat
+Search
+User
+
+Libraries:
+
+Heroicons
+Lucide Icons
+Material Symbols
+UI Inspiration
+
+Take inspiration from:
+
+Discord (communities)
+Slack (workspace organization)
+LinkedIn (professional feel)
+Notion (clean layouts)
+
+Avoid copying their interfaces—use them as inspiration for spacing, navigation, and interaction patterns.
